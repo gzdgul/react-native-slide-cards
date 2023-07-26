@@ -1,22 +1,31 @@
 {
   "name": "react-native-slide-cards",
-  "version": "1.0.0",
+  "version": "1.0.3",
+  "keywords": [
+    "react-native",
+    "expo",
+    "animation",
+    "ios",
+    "android"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "github.com/gzdgul/react-native-slide-cards.git",
+    "directory": "packages/react-native-slide-cards"
+  },
   "main": "index.js",
+  "homepage": "https://github.com/gzdgul/react-native-slide-cards#readme",
   "description": "Sliding card package for React Native / Expo",
   "author": "gzdgul",
   "license": "MIT",
-  "dependencies": {
-    "expo": "~48.0.18",
-    "expo-status-bar": "~1.4.4",
-    "react": "18.2.0",
-    "react-native": "0.71.8",
+  "peerDependencies": {
     "react-native-gesture-handler": "~2.9.0",
-    "react-native-reanimated": "~2.14.4",
+    "react-native-reanimated": "*",
     "moti": "^0.25.3",
     "expo-linear-gradient": "^12.3.0"
   },
-  "devDependencies": {
-    "@babel/core": "^7.20.0"
+  "publishConfig": {
+    "access": "public"
   },
   "private": false
 }
