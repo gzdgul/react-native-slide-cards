@@ -1,6 +1,6 @@
 {
   "name": "react-native-slide-cards",
-  "version": "1.0.3",
+  "version": "0.0.1",
   "keywords": [
     "react-native",
     "expo",
@@ -19,7 +19,7 @@
   "author": "gzdgul",
   "license": "MIT",
   "peerDependencies": {
-    "react-native-gesture-handler": "~2.9.0",
+    "react-native-gesture-handler": "*",
     "react-native-reanimated": "*",
     "moti": "^0.25.3",
     "expo-linear-gradient": "^12.3.0"
