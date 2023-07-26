@@ -5,8 +5,6 @@
 
 This package is simply built by me using [expo] and [Moti] with function-based components.
 
-Github: [gzdgul/react-native-slide-cards][github]
-
 ![gif1](https://i.ibb.co/m6F7jRw/slide1.gif) ![gif2](https://i.ibb.co/mCjN7Bm/slide2.gif)
 
 &nbsp;
