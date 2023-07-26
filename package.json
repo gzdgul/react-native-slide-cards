@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "github.com/gzdgul/react-native-slide-cards.git",
+    "url": "https://github.com/gzdgul/react-native-slide-cards.git",
     "directory": "packages/react-native-slide-cards"
   },
   "main": "index.js",
