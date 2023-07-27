@@ -89,4 +89,4 @@ const SlidingCards = ({
     );
 };
 
-export default React.memo(SlidingCards);
+export default SlidingCards;

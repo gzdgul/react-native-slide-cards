@@ -183,7 +183,7 @@ const renderHeaderItems = (items, { card, headerImageTag, headerImagePress, head
     });
 };
 
-export default React.memo(Box);
+export default Box;
 
 const styles = StyleSheet.create({
     boxContainer: {

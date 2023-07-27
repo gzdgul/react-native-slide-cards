@@ -25,4 +25,4 @@ const ImageBox = ({ card, uri, headerImageStyle = {}, headerImageTag, headerImag
     );
 };
 
-export default React.memo(ImageBox);
+export default ImageBox;

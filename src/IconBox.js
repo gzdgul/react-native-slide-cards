@@ -27,4 +27,4 @@ const IconBox = ({ card, headerIconStyle = {}, theme, uri, headerIconPress, head
     );
 };
 
-export default React.memo(IconBox);
+export default IconBox;

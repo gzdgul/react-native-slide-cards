@@ -11,7 +11,7 @@ const TextBox = ({ text, theme, headerTextStyle }) => {
     return <Text style={combinedStyles}>{text}</Text>;
 };
 
-export default React.memo(TextBox);
+export default TextBox;
 
 const styles = StyleSheet.create({
     headerText: {
